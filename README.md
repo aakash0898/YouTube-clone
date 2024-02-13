@@ -6,6 +6,8 @@ This project is a simple YouTube clone created using HTML and CSS. It aims to re
 **Features**
 
 -> Responsive design for various screen sizes.
+
 -> Mimics the layout and styling of YouTube's main page.
+
 -> Utilizes HTML and CSS to create a visually appealing interface.
 
